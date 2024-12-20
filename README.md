@@ -1,13 +1,13 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
 
-<p align="left">
+
+
   - Hi, I'm Nikhil Dobariya 
   - Connect with me at dobariyanikhil98@gmail.com
 
-###
+
 
 <h2 align="left">About me</h2>
 
