@@ -3,7 +3,9 @@
 
 ###
 
-<p align="left">Hi, I'm Nikhil Dobariya<br>Connect with me at dobariyanikhil98@gmail.com</p>
+<p align="left">
+  - Hi, I'm Nikhil Dobariya 
+  - Connect with me at dobariyanikhil98@gmail.com
 
 ###
 
